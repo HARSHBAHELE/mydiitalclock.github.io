@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+    background-color: rgb(22, 19, 19);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+#digital-clock {
+    color: aqua;
+    margin-top: 50px;
+    padding-left: 35px;
+    font-size: 4rem;
+    box-shadow: 0 0 10px white;
+    height: 110px;
+    width: 520px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 30px;
+    border-radius: 20px;
+    border: 2px solid aqua;
+}
+.harsh h1 {
+    color: aqua;
+    padding-top: 200px;
+    padding-left: 170px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.harsh img {
+    padding-left: 110px;
+}
+#digital-clock h3 {
+    color: aliceblue;
+
+}
